@@ -1,0 +1,45 @@
+header{
+	width: "device-width";
+	height: 60px;
+	background-color: skyblue;
+	justify-items: flex-start;
+	border-radius: 10px;
+}
+footer{
+	width: "device-width";
+	height: 60px;
+	background-color: skyblue;
+	text-align: center;
+	border-radius: 10px;
+}
+span{
+	padding-left: 10px;
+}
+h3{
+	font-family: cursive;
+}
+
+header p{
+	padding-top: 15px;
+	color: black;
+	text-align: center;
+	text-decoration-color: antiquewhite;
+	font-size: 30px;
+	font-family: monospace;
+}
+
+body {
+	font-family: cursive;
+	background: linear-gradient(#85DCB,#41B3A3);
+}
+
+#login{
+	font-family: monospace;
+	font-size: 25px;
+	text-decoration: none;
+}
+a{
+	font-family: monospace;
+	font-size: 25px;
+	transition: 0.5s;
+}
